@@ -2,8 +2,8 @@ const infobot = (status, offline, latensii, totalchat, giid, wa_version, mcc, mn
 return `ℒ⃝👾 *B O T  S T A T I S T I C*
 
 👨‍💻 Owner : @${ownerNumberr.split('@')[0]}
-☪️ Lib  : Baileys
-☸️ Type  : NodeJs
+⚕️ Lib  : Baileys
+💹 Type  : NodeJs
 ♂️ Mode : ${status}
 ♀️ Status : ${offline ? 'OFFLINE' : 'ONLINE'}
 👨‍👨‍👧‍👦 Group Chat : ${giid.length}
